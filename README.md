@@ -1,4 +1,9 @@
-# nbdev template
+# boie
+> Information extraction library for Tibetan (boyig)
 
-Use this template to more easily create your nbdev project.
 
+## Install
+
+`pip install boie`
+
+## How to use
